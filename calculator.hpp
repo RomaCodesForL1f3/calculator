@@ -8,6 +8,7 @@
 /// @copyright Copyright (C) 2013-2018 Kim Walisch
 /// @license   BSD 2-Clause, https://opensource.org/licenses/BSD-2-Clause
 /// @version   1.4
+/// TRY subtraction with bubble algo
 ///
 /// == Supported operators ==
 ///
